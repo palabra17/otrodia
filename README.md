@@ -78,4 +78,4 @@ Contributing
 Feel free to fork this repository and submit pull requests!
 
 Contact
-For inquiries, reach me at [your email].
+For inquiries, reach me at.

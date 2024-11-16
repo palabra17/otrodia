@@ -78,4 +78,4 @@ Contributing
 Feel free to fork this repository and submit pull requests!
 
 Contact
-For inquiries, reach me at.
+For inquiries, reach me at palabra17@yahoo.com
